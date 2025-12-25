@@ -5,6 +5,7 @@ focused on retail sales performance, customer retention, and churn analysis.
 
 ### Tools Used
 - Excel, SQL
+- Python, Pandas, Numpy
 - R Programming
 - Tableau / BI Dashboards
 

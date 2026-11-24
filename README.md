@@ -12,7 +12,7 @@ focused on retail sales performance, customer retention, and churn analysis.
 - Cleaned retail transaction data in Power Query and loaded it into a SQL database
 - Used SQL to analyse top customers by revenue, repeat vs one-time customers, monthly revenue growth, and customer lifetime value
 - Built Excel dashboards and pivot tables to show retention patterns
-- **Key finding:** [one real result from your analysis]
+- **Key finding:** Groceries was the top-selling category (about 206K in net revenue) and Sports the lowest (about 159K). By region, West earned the most (about 321K) and North the least (about 237K).
 
 ### 2. Customer Churn and Segmentation Analysis
 **Tools:** Python (Pandas, NumPy), R, Tableau

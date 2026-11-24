@@ -21,7 +21,7 @@ focused on retail sales performance, customer retention, and churn analysis.
 - Cleaned the data and ran exploratory analysis in Python
 - Performed statistical analysis and customer segmentation in R
 - Built interactive Tableau dashboards to show trends and segments
-- **Key finding:** [one real result from your analysis]
+- **Key finding:** K-means segmentation on recency and monetary value found a group of inactive, low-spending customers with a predicted churn probability of about 85%, compared with about 5% and 0.3% in the other two segments. Recency was the strongest churn predictor.
 
 ## Tools Used
 Excel, Power Query, SQL, Python (Pandas, NumPy), R, Tableau
